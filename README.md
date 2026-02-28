@@ -3,20 +3,20 @@ Customer behavior analysis using Python, SQL and Power BI  Public
 
 This project focuses on analyzing customer shopping behavior using Python, SQL, and Power BI. The aim is to clean raw data, perform business analysis, and build interactive dashboards to generate meaningful insights.
 
-**🎯 # Objectives**
+**🎯 Objectives**
 
-Data cleaning and preprocessing using Python
+**1)** Data cleaning and preprocessing using Python
 
-Business analysis using SQL queries
+**2)** Business analysis using SQL queries
 
-Interactive dashboard creation using Power BI
+**3)** Interactive dashboard creation using Power BI
 
 🛠 **Tools Used**
 
-Python (Pandas, NumPy)
+**1)** Python (Pandas, NumPy)
 
-SQL (MySQL)
+**2)** SQL (MySQL)
 
-Power BI
+**3)** Power BI
 
-Jupyter Notebook
+**4)** Jupyter Notebook
